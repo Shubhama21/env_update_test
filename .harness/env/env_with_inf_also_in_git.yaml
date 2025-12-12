@@ -1,0 +1,6 @@
+environment:
+  name: env_with_inf_also_in_git
+  identifier: env_with_inf_also_in_git
+  orgIdentifier: Ng_Pipelines_K8s_Organisations
+  projectIdentifier: DoNotDelete_Mayank
+  type: PreProduction
