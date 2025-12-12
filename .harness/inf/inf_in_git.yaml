@@ -1,0 +1,13 @@
+infrastructureDefinition:
+  name: inf_in_git
+  identifier: inf_in_git
+  orgIdentifier: Ng_Pipelines_K8s_Organisations
+  projectIdentifier: DoNotDelete_Mayank
+  environmentRef: env_with_inf_also_in_git
+  deploymentType: Kubernetes
+  type: KubernetesDirect
+  spec:
+    connectorRef: ayushmanConnector
+    namespace: default
+    releaseName: release-<+INFRA_KEY_SHORT_ID>
+  allowSimultaneousDeployments: false
