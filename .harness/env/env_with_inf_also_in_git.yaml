@@ -2,6 +2,6 @@ environment:
   name: env_with_inf_also_in_git
   identifier: env_with_inf_also_in_git
   tags: {}
-  type: Production
+  type: PreProduction
   orgIdentifier: Ng_Pipelines_K8s_Organisations
   projectIdentifier: DoNotDelete_Mayank
