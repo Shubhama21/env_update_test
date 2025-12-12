@@ -1,5 +1,5 @@
 environment:
-  name: env_with_inf_also_in_git
+  name: env_with_inf_also_in_git1
   identifier: env_with_inf_also_in_git
   tags: {}
   type: Production
