@@ -1,0 +1,8 @@
+environment:
+  name: bug_test_env
+  identifier: bug_test_env
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: Ng_Pipelines_K8s_Organisations
+  projectIdentifier: DoNotDelete_Mayank
