@@ -1,6 +1,6 @@
 environment:
   name: env_with_inf_also_in_git1234
-  identifier: env_with_inf_also_in_git
+  identifier: env_with_inf_also_in_git1
   tags: {}
   type: Production
   orgIdentifier: Ng_Pipelines_K8s_Organisations
