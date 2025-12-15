@@ -3,4 +3,4 @@ environment:
   identifier: aka
   orgIdentifier: default
   projectIdentifier: p1
-  type: PreProduction
+  type: Production
