@@ -1,0 +1,6 @@
+environment:
+  name: aka
+  identifier: aka
+  orgIdentifier: default
+  projectIdentifier: p1
+  type: PreProduction
