@@ -2,6 +2,6 @@ environment:
   name: aka
   identifier: aka
   tags: {}
-  type: Production
+  type: PreProduction
   orgIdentifier: default
   projectIdentifier: p1
