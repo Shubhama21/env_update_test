@@ -1,0 +1,6 @@
+environment:
+  name: abc
+  identifier: abc
+  orgIdentifier: default
+  projectIdentifier: p1
+  type: PreProduction
