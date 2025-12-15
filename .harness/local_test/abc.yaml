@@ -3,4 +3,4 @@ environment:
   identifier: abc
   orgIdentifier: default
   projectIdentifier: p1
-  type: Production
+  type: PreProduction
